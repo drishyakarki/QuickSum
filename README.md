@@ -22,7 +22,7 @@ QuickSum is a web application that allows you to summarize articles and condense
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/drishyakarki/quicksum.git`
+1. Clone the repository: `git clone https://github.com/drishyakarki/QuickSum.git`
 2. Navigate to the project directory: `cd article-summarizer`
 3. Install dependencies: `npm install`
 
